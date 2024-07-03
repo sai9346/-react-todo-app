@@ -1,5 +1,4 @@
 
-
 ---
 
 # React To-Do App
@@ -44,9 +43,9 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
 
-
+  
    git clone https://github.com/sai9346/react-todo-app.git
-
+  
 
 2. **Navigate to the project directory:**
 
@@ -56,14 +55,13 @@ To get a local copy up and running, follow these simple steps:
 
 3. **Install dependencies:**
 
-
+   
    npm install
 
 
 ## Usage
 
 To run the application locally, use the following command:
-
 
 npm start
 
@@ -72,7 +70,7 @@ This will start the development server and open the app in your default web brow
 
 ## Folder Structure
 
-
+```
 react-todo-app
 ├── public
 │   ├── index.html
@@ -92,15 +90,15 @@ react-todo-app
 │   └── ...
 ├── package.json
 └── README.md
-
+```
 
 - **public**: Contains the HTML file for the app and other public assets
 - **src**: Contains the source code for the app
-  - **components**: Contains React components
-  - **redux**: Contains Redux actions, reducers, and the store configuration
-  - **styles.css**: Custom CSS for the app
-  - **App.js**: Main component that renders the app
-  - **index.js**: Entry point for the React app
+- **components**: Contains React components
+- **redux**: Contains Redux actions, reducers, and the store configuration
+- **styles.css**: Custom CSS for the app
+- **App.js**: Main component that renders the app
+- **index.js**: Entry point for the React app
 
 ## Contributing
 
@@ -117,4 +115,5 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
+
 
