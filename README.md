@@ -62,10 +62,10 @@ npm start
 This will start the development server and open the app in your default web browser at `http://localhost:3000`.
 
 ## Folder Structure
-
 react-todo-app
 ├── public
 │   ├── index.html
+│   └── ...
 ├── src
 │   ├── components
 │   │   ├── TaskInput.js
@@ -77,9 +77,11 @@ react-todo-app
 │   │   └── store.js
 │   ├── styles.css
 │   ├── App.js
-│   ├── index.js  
+│   ├── index.js
+│   └── ...
 ├── package.json
 └── README.md
+
 
 
 - **public**: Contains the HTML file for the app and other public assets
