@@ -74,7 +74,6 @@ This will start the development server and open the app in your default web brow
 react-todo-app
 ├── public
 │   ├── index.html
-│   └── ...
 ├── src
 │   ├── components
 │   │   ├── TaskInput.js
@@ -87,7 +86,6 @@ react-todo-app
 │   ├── styles.css
 │   ├── App.js
 │   ├── index.js
-│   └── ...
 ├── package.json
 └── README.md
 ```
